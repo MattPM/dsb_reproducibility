@@ -1,3 +1,24 @@
+# My generalized template modified for dsb release to include figures 
+# data 
+*.RDS
+*.rds
+*.csv
+*.csv.gz
+*.png
+*.pdf
+*.txt
+*.tsv
+*.mtx
+*.vcf
+*.xlsx
+*.RData
+*~
+*V1.1_v2
+*V1.1_v3
+*V1.1
+*.DS_Store
+*.DS_Store/
+
 # History files
 .Rhistory
 .Rapp.history
@@ -37,3 +58,7 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# ignore data and figures * 
+data/
+<<<<<<< HEAD
