@@ -2,6 +2,10 @@ Normalizing and denoising protein expression data from droplet-based
 single cell profiling
 ================
 
+  - Note this is a clone of the exact version on the niaid github
+    account. Ran this version from scratch from dsb\_normalization repo
+    only using starting data.
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 ### Code to reproduce all manuscript results and figures

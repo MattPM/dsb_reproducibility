@@ -3,6 +3,8 @@ title: "Normalizing and denoising protein expression data from droplet-based sin
 output: github_document
 ---
 
+* Note this is a clone of the exact version on the niaid github account. Ran this version from scratch from dsb_normalization repo only using starting data. 
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 ```{r, include = FALSE}
