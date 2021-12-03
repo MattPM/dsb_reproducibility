@@ -4,8 +4,6 @@
 *.rds
 *.csv
 *.csv.gz
-*.png
-*.pdf
 *.txt
 *.tsv
 *.mtx
@@ -59,6 +57,7 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-# ignore data and figures * 
+# ignore data 
 data/
+generated_data/
 <<<<<<< HEAD
